@@ -52,4 +52,4 @@
 <h2 aign="left"style = "color: #44AEF8"  >📫 How to Reach Me</h2>
 <p>
 
-Feel free to reach out to me via email at shadmehrmanouchehri@gmail.com.</p>
+Feel free to reach out to me via email at [My Email](shadmehrmanouchehri@gmail.com)</p>
