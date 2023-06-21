@@ -5,7 +5,7 @@
 <br>
 <h2 align='left' style = "color: #44AEF8"> 🔭 What I'm Working On</h2>
 <br>
-<p align='center'> I'm currently working on a simple TO-DO app to sharpen my Flutter skills. It's an exciting project where I'm implementing various features and exploring best practices in mobile app development.</p>
+<p align='center'> I'm currently working on Building management software for a project. It's an exciting project where I'm implementing various features and exploring best practices in mobile app development.</p>
 <br>
 <br>
 <h2 align="left" style = "color: #BDA" >🌱 What I'm Learning</h2>
