@@ -4,8 +4,8 @@ a Jr developer
 
 Reach me out!
 
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FShdmhrManuchHri)
-![discord URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Frexlygod&style=social&logo=discord&label=discord&labelColor=purple&color=purple) ![Linkedin URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshadmehr-manoochehri-760a9a1b8%2F&style=Github&logo=Linkedin&label=Linkedin&labelColor=blue&color=blue)
+<!-- ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FShdmhrManuchHri)
+![discord URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Frexlygod&style=social&logo=discord&label=discord&labelColor=purple&color=purple) ![Linkedin URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshadmehr-manoochehri-760a9a1b8%2F&style=Github&logo=Linkedin&label=Linkedin&labelColor=blue&color=blue) -->
 
 ### What I currently Do
 
@@ -14,8 +14,8 @@ Reach me out!
 
 #### Tools That I Worked With
 
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-2FB8F6?style=for-the-badge&labelColor=gray&logo=flutter&logoColor=2FB8F6)](#) 
-[![SupaBase Badge](https://img.shields.io/badge/-SupaBase-38A169?style=for-the-badge&labelColor=gray&logo=SupaBase&logoColor=38A169)](#) 
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-2FB8F6?style=for-the-badge&labelColor=gray&logo=flutter&logoColor=2FB8F6)](#)
+[![SupaBase Badge](https://img.shields.io/badge/-SupaBase-38A169?style=for-the-badge&labelColor=gray&logo=SupaBase&logoColor=38A169)](#)
 [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=white&logo=microsoft-sql-server&logoColor=CC2927)](#)
 
 ### What I'm Learning
