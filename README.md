@@ -4,8 +4,9 @@ a Jr developer
 
 Reach me out!
 
-<!-- ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FShdmhrManuchHri)
-![discord URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fdiscord.com%2Frexlygod&style=social&logo=discord&label=discord&labelColor=purple&color=purple) ![Linkedin URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshadmehr-manoochehri-760a9a1b8%2F&style=Github&logo=Linkedin&label=Linkedin&labelColor=blue&color=blue) -->
+[![Email Badge](https://img.shields.io/badge/-shadmehrmanoochehri%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadmehrmanoochehri@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/rexlygod)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmehr-manoochehri-760a9a1b8/)
 
 ### What I currently Do
 
