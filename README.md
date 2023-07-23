@@ -30,4 +30,4 @@ Reach me out!
 <br>
 <br>
 
-![shadmehr GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexGod&hide=contribs,prs&show_icons=true&theme=dracula)
+![shadmehr GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexGod&hide=prs&show_icons=true&theme=dracula)
