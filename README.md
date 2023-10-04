@@ -14,18 +14,18 @@ Reach me out!
 - 🤔 What ????
 
 #### Tools That I Worked With
-
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-2FB8F6?style=for-the-badge&labelColor=gray&logo=flutter&logoColor=2FB8F6)](#)
 [![SupaBase Badge](https://img.shields.io/badge/-SupaBase-38A169?style=for-the-badge&labelColor=gray&logo=SupaBase&logoColor=38A169)](#)
 [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=white&logo=microsoft-sql-server&logoColor=CC2927)](#)
-
-### What I'm Learning
-
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-438641?style=for-the-badge&labelColor=gray&logo=node.js&logoColor=438641)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=gray&logo=Docker&logoColor=2496ED)](#)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=gray&logo=JavaScript&logoColor=F7DF1E)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=gray&logo=PostgreSQL&logoColor=336791)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=gray&logo=typescript&logoColor=3178C6)](#)
 <br>
 <br>
 <br>
