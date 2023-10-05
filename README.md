@@ -8,7 +8,7 @@ Reach me out!
 
 ### What I currently Do
 
-- 🔭 I’m currently student and Learning
+- 🔭 I’m currently a student and Learning
 - 🤔 What ????
 
 #### Tools That I Worked With
@@ -26,6 +26,7 @@ Reach me out!
 [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=white&logo=microsoft-sql-server&logoColor=CC2927)](#)
 <br>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexGod&layout=compact&theme=dracula)
 <br>
-
-![shadmehr GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexGod&hide=prs&show_icons=true&theme=dracula)
+<br>
+![shadmehr GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexGod&hide=prs&show_icons=true&theme=dracula&rank_icon=github)
