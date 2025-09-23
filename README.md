@@ -1,32 +1,80 @@
-## Hi I'm shadmehr <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" height="28px" alt="hi">
+## Hi, I'm Shadmehr 👋
 
-Reach me out!
+🚀 **Machine Learning Engineer | AI Developer | Problem Solver**  
 
+I specialize in building **end-to-end AI solutions**, from research to deployment, integrating cutting-edge machine learning techniques, large-scale systems, and modern infrastructure practices.  
+
+---
+
+### 📬 Reach Me Out
 [![Email Badge](https://img.shields.io/badge/-shadmehrmanoochehri%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadmehrmanoochehri@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/rexlygod)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmehr-manoochehri-760a9a1b8/)
 
-### What I currently Do
+---
 
-- 🔭 I’m currently a student and Learning
-- 🤔 What ????
+### 🔭 What I Do
+- 💻 **ML Engineering & AI Development** — from research to production-grade deployments.  
+- 🖼️ **Computer Vision** — advanced pipelines for detection, segmentation, inpainting, and image-to-image tasks.  
+- 🎨 **Generative AI** — working with **Stable Diffusion, FLUX**, and fine-tuning models for custom tasks.  
+- 🧠 **Graph AI** — designing and training **heterogeneous GNN models** for structured & relational data.  
+- 🤖 **Agents & RAG Systems** — building intelligent assistants using **LangChain, vector DBs, and MCP**.  
+- ☸️ **Deployment & MLOps** — delivering services with **FastAPI, Docker, CI/CD, monitoring (Grafana + Prometheus)**.  
+- ☁️ **Cloud & Infrastructure** — deploying scalable AI systems on **GCP** and containerized environments.  
+- 🐧 **Linux & Dev Environments** — strong command-line & system-level experience for AI workflows.  
+- 🧪 **Testing & Reliability** — writing tests and ensuring robust pipelines for production.  
 
-#### Tools That I Worked With
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D9BF0?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF1493?style=for-the-badge&logo=stablediffusion&logoColor=white)
+
+#### Databases
+![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-009688?style=for-the-badge&logo=weaviate&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0070f3?style=for-the-badge&logo=pinecone&logoColor=white)
+
+#### DevOps & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-2FB8F6?style=for-the-badge&labelColor=gray&logo=flutter&logoColor=2FB8F6)](#)
-[![SupaBase Badge](https://img.shields.io/badge/-SupaBase-38A169?style=for-the-badge&labelColor=gray&logo=SupaBase&logoColor=38A169)](#)
-[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=white&logo=microsoft-sql-server&logoColor=CC2927)](#)
-<br>
-<br>
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### Frameworks & Services
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexGod&layout=compact&theme=dracula)
 <br>
-<br>
 ![shadmehr GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexGod&hide=prs&show_icons=true&theme=dracula&rank_icon=github)
+
+---
+
+### 🌟 Highlights
+- Built **vision pipelines** with **inpainting, image-to-image, and generative models**.  
+- Fine-tuned **Stable Diffusion & FLUX** for **custom automation workflows**.  
+- Developed **intelligent chatbots & assistants** leveraging **RAG + LangChain + vector DBs**.  
+- Deployed **real-time monitoring systems** for AI services with **Grafana & Prometheus**.  
+- Delivered **heterogeneous GNN models** for advanced graph learning.  
+- Created **E2E MCP-based agents**, integrating multiple servers seamlessly.  
+- Deployed AI services on **GCP with scalable infrastructure**.  
+
+---
